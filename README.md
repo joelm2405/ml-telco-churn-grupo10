@@ -341,10 +341,10 @@ Además, el escalado numérico se ajusta solo con el conjunto de entrenamiento p
 
 | Integrante | Contribución | % |
 |---|---|---:|
-| Alejandro Marcelo | Limpieza de datos, tratamiento de valores faltantes, codificación de variables y escalado numérico | 25% |
-| Ferrel Valentino Infante Garcia | Implementación de modelos, validación cruzada, GridSearchCV y comparación de Regresión Logística con Random Forest | 25% |
-| Leonardo Martinez Aquino | Análisis exploratorio de datos, interpretación de gráficos, análisis del desbalance de clases y selección de variables relevantes | 25% |
-| Joel David Miguel Fernández | Matriz de costos, análisis de thresholds, generación de predicciones finales y revisión de resultados para la submission | 25% |
+| Alejandro Marcelo | Preprocesamiento, limpieza de datos, tratamiento de `TotalCharges`, codificación de variables y escalado numérico | 25% |
+| Ferrel Valentino Infante Garcia | Modelado, validación cruzada, `GridSearchCV`, comparación entre Regresión Logística y Random Forest, y revisión de métricas | 25% |
+| Leonardo Martinez Aquino | Análisis exploratorio de datos, interpretación de gráficos, análisis del desbalance de clases y apoyo en el desarrollo del Ejercicio A | 25% |
+| Joel David Miguel Fernández | Matriz de costos, análisis de thresholds, selección del umbral costo-beneficio y generación/revisión de submissions finales | 25% |
 
 ---
 
